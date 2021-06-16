@@ -2,3 +2,6 @@ body {color:white;
   background-color: black ;
 margin : 5px;
 padding : 10px}
+
+ul, li {padding :25px;
+margin: 10px}
