@@ -1,7 +1,7 @@
-body {color:white;
-  background-color: black ;
-margin : 5px;
-padding : 10px}
 
-nav ul li {padding :25px;
-margin: 10px}
+
+ul, li {color:white;
+  background-color: black ;
+margin : 1px;
+padding : 55px}
+
